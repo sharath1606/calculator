@@ -1,2 +1,2 @@
 # calculator
-simple design of calculator
+simple design of calculator using html
